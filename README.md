@@ -14,7 +14,7 @@ This repository contains a Node.js application that generates full-content RSS f
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/full-content-rss.git
+git clone https://github.com/petrismt/full-content-rss.git
 ```
 
 
