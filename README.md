@@ -32,7 +32,7 @@ npm install
 
 ## Usage
 
-### Add or update the feeds in the feeds.js file:
+1. Add or update the feeds in the feeds.js file:
 
 ``` javascript
 
@@ -52,13 +52,13 @@ const feeds = {
 module.exports = feeds;
 ```
 
-### Start the server:
+2. Start the server:
 
 ```bash
 npm start
 ```
 
-### Access the full-content RSS feed by visiting the following URL in your browser or RSS reader:
+3. Access the full-content RSS feed by visiting the following URL in your browser or RSS reader:
 
 ``` bash
 http://localhost:3123/feed/feedName
